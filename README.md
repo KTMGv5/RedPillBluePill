@@ -1,7 +1,4 @@
 [![](https://poggit.pmmp.io/shield.state/RedBluePill)](https://poggit.pmmp.io/p/RedBluePill)
-
-<a href="https://poggit.pmmp.io/p/RedBluePill"><img src="https://poggit.pmmp.io/shield.state/RedBluePill"></a>
-
 # RedBluePill
 
 RedBluePill is a family-friendly PocketMine-MP plugin that presents players with a cinematic, one-time choice when they first join the server. Each choice grants permanent, balanced abilities designed to feel meaningful without breaking gameplay.
