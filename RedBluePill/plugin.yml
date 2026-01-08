@@ -1,0 +1,15 @@
+name: RedBluePill
+main: RedBluePill\Main
+version: 1.0.0
+api: 5.0.0
+
+commands:
+  redochoice:
+    description: Reset your pill choice
+    permission: redbluepill.redo
+    usage: /redochoice
+
+permissions:
+  redbluepill.redo:
+    description: Allows resetting the pill choice
+    default: op
