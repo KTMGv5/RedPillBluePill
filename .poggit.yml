@@ -5,4 +5,5 @@ branches:
 projects:
   RedBluePill:
     path: RedBluePill/
+    icon: icon.png
 ...
