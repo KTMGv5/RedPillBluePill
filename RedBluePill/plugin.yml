@@ -1,4 +1,4 @@
-name: RedBluePill
+name: RedPillBluePill
 main: RedBluePill\Main
 version: 1.0.0
 api: 5.0.0
@@ -13,3 +13,4 @@ permissions:
   redbluepill.redo:
     description: Allows resetting the pill choice
     default: op
+
