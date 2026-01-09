@@ -1,7 +1,7 @@
 [![](https://poggit.pmmp.io/shield.state/RedBluePill)](https://poggit.pmmp.io/p/RedBluePill)
-# RedBluePill
+# Red Pill Blue Pill
 
-RedBluePill is a family-friendly PocketMine-MP plugin that presents players with a cinematic, one-time choice when they first join the server. Each choice grants permanent, balanced abilities designed to feel meaningful without breaking gameplay.
+Red Pill Blue Pill is a family-friendly PocketMine-MP plugin that presents players with a cinematic, one-time choice when they first join the server. Each choice grants permanent, balanced abilities designed to feel meaningful without breaking gameplay.
 
 This plugin is ideal for family servers, kid-friendly communities, and small SMP worlds.
 
@@ -14,7 +14,6 @@ This plugin is ideal for family servers, kid-friendly communities, and small SMP
 - Lightweight particle effects that follow the player
 - Parent/admin-only reset command
 - Simple mechanics designed for younger players
-- Stable and API-safe for PocketMine-MP 5.x
 
 ---
 
